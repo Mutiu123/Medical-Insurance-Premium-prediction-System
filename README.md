@@ -81,9 +81,8 @@ The primary objective is to build a reliable predictive model that can assess th
 
 ## **System Demo:**
 
-![The System Demo](https://github.com/Mutiu123/heart-disease-prediction-system/blob/main/demos/demo1.png)
+![The System Demo](https://github.com/Mutiu123/Medical-Insurence-Premium-prediction-System/blob/main/demos/demo1.png)
 
-![The System Demo](https://github.com/Mutiu123/heart-disease-prediction-system/blob/main/demos/demo2.png)
 
 
 ## **To run the model**
