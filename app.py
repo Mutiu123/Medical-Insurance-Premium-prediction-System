@@ -1,6 +1,6 @@
 #import library
 import numpy as np
-import seaborn as sns 
+import sklearn
 import pandas as pd
 import pickle as pkl
 import streamlit as st 
