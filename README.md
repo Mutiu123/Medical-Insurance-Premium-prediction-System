@@ -1,22 +1,22 @@
 ## **Project Description**:
 
 **Introduction:**
-The Medical Insurance Premium Prediction System is an advanced analytical tool designed to predict the insurance premium costs for individuals based on various demographic and health-related factors. This system leverages machine learning algorithms to provide accurate estimations that can help users in financial planning and decision-making regarding their health insurance.
+The Medical Insurance Premium Prediction System is an advanced analytical tool designed with the user in mind. It predicts the insurance premium costs for individuals based on various demographic and health-related factors, providing accurate estimations that can help users in financial planning and decision-making regarding their health insurance.
 
 **Technical Overview:**
 The project utilizes a dataset containing historical insurance data, including age, sex, BMI, number of children, smoking status, region, and charges. The data is preprocessed to convert categorical variables into numerical form for better analysis by the machine learning model.
 
-A **Random Forest Regressor** is employed as the predictive model due to its robustness and ability to handle non-linear relationships within the data. The model is trained on a subset of the data (75%) and tested on the remaining 25% to evaluate its performance. The R-squared score is calculated to measure the accuracy of the predictions against the actual charges.
+The project employs a robust predictive model, the Random Forest Regressor, due to its ability to handle non-linear relationships within the data. This model is trained on a subset of the data (75%) and tested on the remaining 25% to evaluate its performance. The R-squared score is calculated to measure the accuracy of the predictions against the actual charges.
 Absolutely! Here's a problem statement for your project:
 
 ## **Problem Statement:**
-In the realm of healthcare, accurately predicting medical insurance premiums is a complex challenge due to the multitude of factors that influence insurance costs. Individuals and insurance companies alike struggle to estimate these costs effectively, which can lead to financial uncertainty and difficulty in budgeting for healthcare expenses. The Medical Insurance Premium Prediction System aims to address this challenge by utilizing machine learning algorithms to analyse historical insurance data and provide precise premium cost estimations. This system seeks to empower users with actionable insights, enabling them to make informed decisions regarding their health insurance plans.
+In the complex realm of healthcare, accurately predicting medical insurance premiums is a significant challenge. This complexity arises from the multitude of factors that influence insurance costs. The Medical Insurance Premium Prediction System, utilizing machine learning algorithms to analyze historical insurance data, aims to provide precise premium cost estimations. By doing so, it empowers users with actionable insights, enabling them to make informed decisions regarding their health insurance plans.
 
 
 ## **Methodology:**
 
 **Data Collection:**
-The project begins with the collection of a comprehensive dataset from historical medical insurance records. This dataset includes key features such as age, sex, BMI, number of children, smoking status, region, and insurance charges.
+The project's foundation lies in the comprehensive collection of a dataset from historical medical insurance records. This dataset includes key features such as age, sex, BMI, number of children, smoking status, region, and insurance charges.
 
 **Data Preprocessing:**
 Upon acquiring the data, preprocessing steps are undertaken to prepare it for analysis. This includes:
